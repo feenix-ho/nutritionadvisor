@@ -134,4 +134,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Impress your users and evaluators with NutritionAdvisor — a world-class, interactive nutrition expert system!**
+**Impress your users and evaluators with NutritionAdvisor, a world-class, interactive nutrition expert system!**
