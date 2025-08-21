@@ -106,7 +106,9 @@ All nutrition logic is implemented in [`src/utils/nutritionRules.ts`](src/utils/
 
 
 **Landing Page**
-![Landing Page](assets/screenshot-landing.png)
+![Landing Page 1](assets/screenshot-landing-one.png)
+![Landing Page 2](assets/screenshot-landing-two.png)
+![Landing Page 3](assets/screenshot-landing-three.png)
 
 **Quiz Flow**
 ![Quiz Flow](assets/screenshot-quiz.png)
