@@ -106,15 +106,14 @@ All nutrition logic is implemented in [`src/utils/nutritionRules.ts`](src/utils/
 
 > _Screenshots and demo GIFs coming soon!_
 
+
 Add screenshots of your app’s landing page, quiz flow, and results cards in the `assets/` folder and reference them here:
 
-```markdown
 ![Landing Page](assets/screenshot-landing.png)
 ![Quiz Flow](assets/screenshot-quiz.png)
 ![Results Cards 1](assets/screenshot-results-one.png)
 ![Results Cards 2](assets/screenshot-results-two.png)
 ![Results Cards 3](assets/screenshot-results-three.png)
-```
 
 ## ✨ Customization
 
