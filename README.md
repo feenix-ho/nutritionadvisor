@@ -141,4 +141,11 @@ This project is licensed under the MIT License.
 
 ---
 
+## 🧑‍💻 Author
+
+**Nduoma Chinomso Christian**  
+_AKA Buzz Brain_
+
+---
+
 **Impress your users and evaluators with NutritionAdvisor, a world-class, interactive nutrition expert system!**
