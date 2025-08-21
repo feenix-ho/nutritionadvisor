@@ -104,13 +104,23 @@ All nutrition logic is implemented in [`src/utils/nutritionRules.ts`](src/utils/
 
 ## 🎨 UI Preview
 
-> _Screenshots and demo GIFs coming soon!_
 
+**Landing Page**
 ![Landing Page](assets/screenshot-landing.png)
+
+**Quiz Flow**
 ![Quiz Flow](assets/screenshot-quiz.png)
+
+**Results Cards 1**
 ![Results Cards 1](assets/screenshot-results-one.png)
+
+**Results Cards 2**
 ![Results Cards 2](assets/screenshot-results-two.png)
+
+**Results Cards 3**
 ![Results Cards 3](assets/screenshot-results-three.png)
+
+**Print Modal**
 ![Results Cards 4](assets/screenshot-print-modal.png)
 
 ## ✨ Customization
