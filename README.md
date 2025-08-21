@@ -111,6 +111,7 @@ All nutrition logic is implemented in [`src/utils/nutritionRules.ts`](src/utils/
 ![Results Cards 1](assets/screenshot-results-one.png)
 ![Results Cards 2](assets/screenshot-results-two.png)
 ![Results Cards 3](assets/screenshot-results-three.png)
+![Results Cards 4](assets/screenshot-print-modal.png)
 
 ## ✨ Customization
 
