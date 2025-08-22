@@ -144,7 +144,7 @@ This project is licensed under the MIT License.
 ## 🧑‍💻 Author
 
 **Nduoma Chinomso Christian**  
-_AKA Buzz Brain_
+_AKA Buzz brain_
 
 ---
 
